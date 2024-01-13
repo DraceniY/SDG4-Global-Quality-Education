@@ -1,0 +1,8 @@
+name: sdg4_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas=1.5.3=py310h46d7db6_0
+  - plotly=5.18.0=pyhd8ed1ab_0
