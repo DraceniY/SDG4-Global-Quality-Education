@@ -33,5 +33,6 @@ Source :
 # Acknowledgement
 I am thankful for the UNESCO Institute for Statistics for providing data. This project effort exemplifies the importance of open data practices.
 
-Yasmine Draceni - January 2024 (c)
+# Copyright
+Yasmine Draceni - January 2024 
  
